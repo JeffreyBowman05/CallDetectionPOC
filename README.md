@@ -6,7 +6,7 @@ This Github contains code and usage information for the CallDetection Proof-of-C
 
 Have all files in same directory. Run each App and BLE-Sim on its own instance of Xcode, CallDetect App is designed for IOS 26.4. BLE-Sim is designed for MacOS 26.4.
 
-#### Steps for Use
+#### Steps for Use (IOS)
 
 1. Run BLE-Sim first on MacOS and allow to initialize.
 2. Start CallDetect App on phone and once started it'll run in foreground, background, and while phone is locked.
